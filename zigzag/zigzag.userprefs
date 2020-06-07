@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\UiManager.cs">
+    <Files>
+      <File FileName="Assets\scripts\BallController.cs" Line="3" Column="4" />
+      <File FileName="Assets\scripts\CameraFollow.cs" Line="13" Column="17" />
+      <File FileName="Assets\scripts\triggerchecker.cs" Line="14" Column="3" />
+      <File FileName="Assets\scripts\PlatformSpawner.cs" Line="5" Column="47" />
+      <File FileName="Assets\scripts\UiManager.cs" Line="11" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
